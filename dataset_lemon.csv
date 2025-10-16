@@ -1,0 +1,796 @@
+diameter,berat,tebal_kulit,kadar_gula,asal_daerah,musim_panen,warna,kualitas
+57.1,105,3.7,8.4,California,Puncak,Kuning cerah,Grade A
+60.2,118,3.8,8.2,Malang,Puncak,Kuning cerah,Grade A
+48.5,80,4.6,7.8,Medan,Akhir,Kuning kehijauan,Grade B
+65.8,136,5.1,7.0,California,Akhir,Hijau pekat,Reject
+55.9,101,3.5,8.5,Malang,Awal,Kuning cerah,Grade A
+52.3,92,4.4,7.6,Medan,Puncak,Kuning kehijauan,Grade B
+62.5,125,3.9,8.1,California,Awal,Kuning cerah,Grade A
+47.0,75,5.5,7.2,Malang,Akhir,Hijau pekat,Reject
+59.5,112,4.0,8.0,Medan,Puncak,Kuning cerah,Grade A
+50.1,85,4.3,7.9,California,Awal,Kuning kehijauan,Grade B
+61.5,120,3.6,8.3,Malang,Puncak,Kuning cerah,Grade A
+53.8,98,4.1,7.5,Medan,Akhir,Kuning kehijauan,Grade B
+67.0,140,5.8,6.9,California,Akhir,Hijau pekat,Reject
+56.8,103,3.4,8.6,Malang,Awal,Kuning cerah,Grade A
+51.2,89,4.2,7.7,Medan,Puncak,Kuning kehijauan,Grade B
+58.8,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.2,128,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.0,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.5,138,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.5,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.5,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.8,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.2,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.0,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.8,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.8,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.5,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.0,142,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.5,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.8,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+60.8,117,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.2,94,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.5,70,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.5,104,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.5,90,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.5,130,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.0,86,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+65.0,132,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.5,102,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.0,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+61.0,119,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.8,99,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.5,145,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.2,106,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+48.9,81,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.2,111,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.0,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.5,83,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.0,137,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.0,97,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.0,115,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+52.5,95,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.0,73,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.5,109,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+51.3,89,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.0,123,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.0,94,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.5,144,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.0,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.2,81,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.2,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.6,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.8,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.8,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.6,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.8,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+64.5,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.2,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.2,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.7,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.9,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.2,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.0,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.1,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.0,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.1,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.1,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.8,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.1,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.4,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.9,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.1,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.3,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.9,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.7,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.4,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.2,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.3,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.7,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.1,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.7,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.7,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.7,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.7,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.6,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.6,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.7,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.3,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.1,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.9,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+55.0,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.3,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.3,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.0,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.1,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.3,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.3,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.6,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.3,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.6,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+52.0,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.3,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.2,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.7,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.6,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.6,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.1,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.4,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.6,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.3,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.5,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.9,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.6,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.8,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.7,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.4,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.6,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.4,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.4,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.8,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.8,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.1,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.4,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.2,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.3,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.4,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.4,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.7,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.4,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.3,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.7,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.4,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.4,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.6,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.9,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.7,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.3,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.2,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.9,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.4,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.3,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.6,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.9,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.5,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.9,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.3,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.8,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.1,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.5,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.6,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.7,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.4,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.5,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.3,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.4,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.5,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.5,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.4,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.6,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.2,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.6,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.5,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.1,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.8,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.4,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.8,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.4,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.1,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.8,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.5,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.2,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.5,70,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.8,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.6,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.8,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.5,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.5,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.2,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.2,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.7,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.9,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.2,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.0,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.1,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.0,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.1,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.1,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.8,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.1,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.4,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.9,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.1,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.3,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.9,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.7,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.4,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.2,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.3,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.7,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.1,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.7,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.7,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.7,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.7,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.6,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.6,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.7,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.3,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.1,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.9,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+55.0,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.3,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.3,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.0,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.1,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.3,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.3,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.6,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.3,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.6,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+52.0,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.3,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.2,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.7,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.6,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.6,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.1,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.4,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.6,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.3,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.5,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.9,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.6,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.8,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.7,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.4,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.6,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.4,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.4,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.8,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.8,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.1,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.4,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.2,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.3,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.4,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.4,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.7,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.4,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.3,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.7,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.4,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.4,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.6,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.9,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.7,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.3,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.2,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.9,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.4,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.3,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.6,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.9,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.5,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.9,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.3,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.8,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.1,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.5,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.6,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.7,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.4,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.5,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.3,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.4,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.5,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.5,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.4,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.6,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.2,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.6,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.5,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.1,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.8,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.4,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.8,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.4,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.1,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.8,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.5,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.2,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.5,70,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.8,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.6,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.8,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.5,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.5,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.2,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.2,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.7,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.9,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.2,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.0,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.1,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.0,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.1,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.1,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.8,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.1,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.4,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.9,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.1,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.3,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.9,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.7,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.4,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.2,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.3,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.7,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.1,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.7,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.7,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.7,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.7,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.6,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.6,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.7,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.3,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.1,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.9,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+55.0,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.3,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.3,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.0,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.1,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.3,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.3,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.6,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.3,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.6,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+52.0,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.3,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.2,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.7,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.6,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.6,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.1,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.4,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.6,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.3,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.5,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.9,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.6,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.8,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.7,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.4,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.6,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.4,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.4,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.8,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.8,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.1,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.4,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.2,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.3,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.4,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.4,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.7,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.4,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.3,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.7,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.4,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.4,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.6,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.9,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.7,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.3,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.2,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.9,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.4,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.3,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.6,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.9,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.5,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.9,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.3,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.8,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.1,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.5,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.6,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.7,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.4,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.5,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.3,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.4,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.5,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.5,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.4,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.6,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.2,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.6,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.5,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.1,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.8,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.4,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.8,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.4,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.1,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.8,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.5,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.2,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.5,70,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.8,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.6,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.8,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.5,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.5,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.2,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.2,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.7,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.9,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.2,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.0,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.1,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.0,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.1,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.1,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.8,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.1,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.4,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.9,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.1,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.3,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.9,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.7,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.4,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.2,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.3,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.7,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.1,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.7,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.7,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.7,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.7,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.6,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.6,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.7,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.3,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.1,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.9,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+55.0,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.3,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.3,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.0,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.1,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.3,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.3,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.6,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.3,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.6,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+52.0,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.3,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.2,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.7,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.6,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.6,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.1,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.4,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.6,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.3,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.5,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.9,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.6,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.8,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.7,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.4,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.6,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.4,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.4,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.8,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.8,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.1,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.4,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.2,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.3,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.4,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.4,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.7,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.4,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.3,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.7,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.4,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.4,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.6,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.9,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.7,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.3,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.2,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.9,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.4,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.3,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.6,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.9,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.5,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.9,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.3,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.8,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.1,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.5,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.6,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.7,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.4,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.5,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.3,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.4,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.5,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.5,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.4,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.6,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.2,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.6,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.5,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.1,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.8,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.4,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.8,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.4,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.1,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.8,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.5,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.2,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.5,70,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.8,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.6,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.8,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.5,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.5,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.2,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.2,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.7,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.9,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.2,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.0,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.1,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.0,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.1,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.1,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.8,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.1,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.4,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.9,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.1,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.3,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.9,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.7,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.4,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.2,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.3,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.7,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.1,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.7,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.7,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.7,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.7,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.6,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.6,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.7,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.3,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.1,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.9,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+55.0,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.3,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.3,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.0,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.1,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.3,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.3,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.6,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.3,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.6,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+52.0,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.3,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.2,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.7,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.6,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.6,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.1,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.4,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.6,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.3,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.5,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.9,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.6,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.8,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.7,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.4,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.6,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.4,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.4,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.8,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.8,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.1,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.4,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.2,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.3,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.4,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.4,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.7,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.4,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.3,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.7,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.4,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.4,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.6,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.9,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.7,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.3,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.2,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.9,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.4,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.3,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.6,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.9,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.5,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.9,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.3,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.8,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.1,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.5,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.6,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.7,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.4,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.5,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.3,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.4,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.5,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.5,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.4,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.6,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.2,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.6,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.5,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.1,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.8,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.4,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.8,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.4,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.1,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.8,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.5,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.2,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.5,70,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.8,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.6,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.8,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.5,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.5,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.2,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.2,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.7,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.9,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.2,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.0,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.1,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.0,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.1,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.1,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.8,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.1,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.4,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.9,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.1,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.3,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.9,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.7,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.4,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.2,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.3,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.7,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.1,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.7,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.7,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.7,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.7,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.6,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.6,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.7,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.3,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.1,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.9,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+55.0,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.3,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.3,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.0,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.1,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.3,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.3,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.6,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.3,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.6,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+52.0,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.3,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.2,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.7,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.6,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.6,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.1,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.4,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.6,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.3,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.5,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.9,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.6,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.8,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.7,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.4,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.6,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.4,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.4,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.8,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.8,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.1,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.4,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.2,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.3,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.4,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.4,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.7,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.4,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.3,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.7,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.4,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.4,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.6,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.9,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.7,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.3,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.2,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.9,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.4,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.3,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.6,71,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.9,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.5,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.9,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.3,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.8,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.1,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.5,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.6,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.7,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.4,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.5,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.3,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.4,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
+63.5,127,4.0,8.1,Malang,Awal,Kuning cerah,Grade A
+49.5,82,4.7,7.4,Medan,Akhir,Kuning kehijauan,Grade B
+66.4,139,5.0,7.1,California,Akhir,Hijau pekat,Reject
+54.6,95,3.6,8.2,Malang,Puncak,Kuning cerah,Grade A
+60.2,116,3.7,8.3,Medan,Awal,Kuning cerah,Grade A
+51.6,91,4.5,7.5,California,Puncak,Kuning kehijauan,Grade B
+46.5,72,5.6,7.3,Malang,Akhir,Hijau pekat,Reject
+58.1,108,3.8,8.1,Medan,Awal,Kuning cerah,Grade A
+50.8,87,4.3,7.6,California,Puncak,Kuning kehijauan,Grade B
+62.4,126,3.9,8.2,Malang,Awal,Kuning cerah,Grade A
+53.8,96,4.1,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+68.4,143,5.9,6.8,California,Akhir,Hijau pekat,Reject
+55.1,100,3.5,8.4,Malang,Puncak,Kuning cerah,Grade A
+49.8,84,4.4,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+61.5,121,3.6,8.5,California,Awal,Kuning cerah,Grade A
+54.2,97,4.2,7.6,Malang,Puncak,Kuning kehijauan,Grade B
+45.5,70,6.0,6.7,Medan,Akhir,Hijau pekat,Reject
+57.8,107,3.7,8.3,California,Awal,Kuning cerah,Grade A
+51.6,91,4.5,7.8,Malang,Puncak,Kuning kehijauan,Grade B
+63.8,131,4.0,8.0,Medan,Awal,Kuning cerah,Grade A
+50.5,88,4.3,7.5,California,Puncak,Kuning kehijauan,Grade B
+64.5,134,4.9,7.2,Malang,Akhir,Hijau pekat,Reject
+56.2,103,3.4,8.6,Medan,Awal,Kuning cerah,Grade A
+52.2,93,4.6,7.4,California,Puncak,Kuning kehijauan,Grade B
+60.7,118,3.8,8.1,Malang,Puncak,Kuning cerah,Grade A
+54.9,98,4.2,7.7,Medan,Akhir,Kuning kehijauan,Grade B
+67.2,141,5.7,6.8,California,Akhir,Hijau pekat,Reject
+57.0,105,3.5,8.4,Malang,Awal,Kuning cerah,Grade A
+51.1,89,4.5,7.9,Medan,Puncak,Kuning kehijauan,Grade B
+59.0,110,3.9,8.0,California,Puncak,Kuning cerah,Grade A
