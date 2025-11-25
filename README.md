@@ -1,14 +1,14 @@
-# 🍋 Klasifikasi Lemon - Sistem Deteksi Kualitas Buah Lemon
+# 🍋 Klasifikasi Kualitas Buah Lemon menggunakan Machine Learning
 
 <div align="center">
 
-**Sistem Klasifikasi Cerdas untuk Mendeteksi Kualitas Buah Lemon Menggunakan Deep Learning**
+**Sistem Intelligent untuk Klasifikasi dan Grading Buah Lemon Berbasis Computer Vision & Machine Learning**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow)](https://tensorflow.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2%2B-F7931E?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv)](https://opencv.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter)](https://jupyter.org)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2%2B-F7931E?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org)
+[![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org)
 
 </div>
 
@@ -16,50 +16,45 @@
 
 ## 📖 Tentang Projek
 
-**Klasifikasi Lemon** adalah proyek machine learning yang mengimplementasikan **Convolutional Neural Network (CNN)** untuk mengklasifikasikan kualitas buah lemon berdasarkan citra visual. Sistem ini dapat membedakan berbagai tingkat kualitas lemon secara otomatis, membantu dalam proses sortir dan quality control di industri pertanian dan retail.
+**Klasifikasi Lemon** adalah sistem machine learning yang dirancang untuk mengotomasi proses klasifikasi kualitas buah lemon berdasarkan karakteristik visual. Projek ini menerapkan berbagai algoritma machine learning tradisional dan teknik computer vision untuk menganalisis citra buah lemon dan mengelompokkannya ke dalam kategori kualitas yang telah ditentukan.
 
-Dibangun dengan arsitektur deep learning modern, proyek ini menawarkan akurasi tinggi dalam mendeteksi karakteristik visual lemon seperti warna, tekstur, dan cacat.
+Sistem ini dapat digunakan dalam industri pertanian, distribusi, dan retail untuk meningkatkan efisiensi proses sorting dan menjaga konsistensi kualitas produk.
 
 ---
 
 ## ✨ Fitur Utama
 
-### 🎯 Klasifikasi Cerdas
-- **📊 Multi-class Classification** - Mengklasifikasikan lemon ke dalam beberapa kategori kualitas
-- **🔍 Feature Extraction** - Ekstraksi fitur visual secara otomatis menggunakan CNN
-- **📈 Confidence Scoring** - Menampilkan tingkat keyakinan model untuk setiap prediksi
+### 🔍 Computer Vision & Feature Extraction
+- **🎨 Feature Extraction** - Ekstraksi fitur warna (RGB, HSV, LAB)
+- **📏 Shape Analysis** - Analisis bentuk dan ukuran buah
+- **⚫ Texture Analysis** - Ekstraksi fitur tekstur menggunakan GLCM, LBP
 
-### 🛠️ Pipeline Machine Learning
-- **🖼️ Image Preprocessing** - Resize, normalisasi, dan augmentasi data
-- **🧠 Model Training** - Pelatihan model CNN end-to-end
-- **📊 Model Evaluation** - Evaluasi menggunakan accuracy, precision, recall, dan F1-score
-- **📉 Visualization** - Plot loss, accuracy, dan confusion matrix
+### 🤖 Machine Learning Pipeline
+- **📊 Multiple Algorithms** - Implementasi berbagai algoritma ML (SVM, Random Forest, KNN, dll)
+- **⚖️ Feature Selection** - Seleksi fitur penting menggunakan RFE, SelectKBest
+- **🔄 Cross-Validation** - Validasi model menggunakan k-fold cross validation
+- **📈 Hyperparameter Tuning** - Optimasi parameter menggunakan GridSearchCV/RandomizedSearchCV
 
-### 💾 Data Management
-- **📁 Dataset Organization** - Struktur folder terorganisir untuk training/validation
-- **🔄 Data Augmentation** - Teknik augmentasi untuk meningkatkan variasi data
-- **⚖️ Data Splitting** - Pembagian data training, validation, dan testing
-
----
-
-## 🛠️ Teknologi yang Digunakan
-
-### Core ML Framework
-- **TensorFlow 2.x** & **Keras** - Deep learning framework
-- **OpenCV** - Computer vision dan image processing
-- **Scikit-learn** - Model evaluation dan utilities
-
-### Data Science Stack
-- **NumPy** - Komputasi numerik
-- **Pandas** - Data manipulation
-- **Matplotlib** & **Seaborn** - Data visualization
-
-### Development Tools
-- **Jupyter Notebook** - Interactive development
-- **Python 3.8+** - Bahasa pemrograman utama
+### 📋 Klasifikasi Multi-Kelas
+- **🏷️ Quality Grading** - Klasifikasi ke dalam multiple grade kualitas
+- **🎯 Confidence Score** - Probabilitas prediksi untuk setiap kelas
+- **📊 Model Interpretation** - Analisis feature importance dan decision boundary
 
 ---
 
-## 📊 Arsitektur Model
+## 🛠️ Teknologi & Algoritma
 
-### 🧠 CNN Architecture
+### Core Machine Learning
+- **Scikit-learn** - SVM, Random Forest, K-Nearest Neighbors, Decision Trees
+- **Feature Engineering** - PCA, StandardScaler, Normalization
+
+### Computer Vision
+- **NumPy** - Array processing untuk data gambar
+
+### Data Science Ecosystem
+- **Pandas** - Data manipulation dan analysis
+- **Matplotlib & Seaborn** - Data visualization
+- **Jupyter Notebook** - Interactive development environment
+
+---
+
